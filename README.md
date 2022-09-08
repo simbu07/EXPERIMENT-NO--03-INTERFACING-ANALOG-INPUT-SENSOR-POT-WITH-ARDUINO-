@@ -15,8 +15,6 @@
 5.	Connecting wires 
 6.	LED of choice 
 
-
-
 ### THEORY: 
 
 ## Analog signals:
@@ -43,11 +41,6 @@ General specifications of analog sensor
 A potentiometer, informally a pot, is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
 Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment. Potentiometers operated by a mechanism can be used as position transducers, for example, in a joystick. Potentiometers are rarely used to directly control significant power (more than a watt), since the power dissipated in the potentiometer would be comparable to the power in the controlled load
 ### CIRCUIT DIAGRAM
-
-
-
-
-
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 FIGURE -01
 
@@ -62,8 +55,6 @@ FIGURE -01
 7.	Open the file of the program  and verify the error , clear if any errors that are existing 
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device 
-
-
 
 ### PROGRAM:
 ```
@@ -94,13 +85,6 @@ else
 ### Simulation output:
 
 ![log](sss.png)
-
-
-
-
-
-
-
 
 ### RESULT: 
 Arduino uno analog input functioning is learned and interfaced with digital input switch .
