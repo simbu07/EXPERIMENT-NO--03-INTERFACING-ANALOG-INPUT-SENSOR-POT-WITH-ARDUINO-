@@ -94,7 +94,7 @@ else
 ### Simulation output:
 
 ![log](sss.png)
-[My image](username.github.com/repository/img/image.jpg)
+
 
 
 
